@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/TEAM-FLUFFY/ZendayaRoBotV3",
-    "repository": "https://github.com/TEAM-FLUFFY/ZendayaRoBotV3",
+    "repository": "https://github.com/sherlocksha1/ZendayaRoBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
